@@ -24,7 +24,7 @@
     position: relative;
     width: 50%;
     margin-bottom: 183px;
-    height: 480px;
+    height: 800px;
 }
 .avatar {
     display: block;
@@ -93,7 +93,8 @@ h1 {
     }
     .hearts {
         height: 80px;
-        bottom: 76px;
+        bottom: -18px;
+        right: -35px;
     }
     h1 {
         font-size: 30px;
